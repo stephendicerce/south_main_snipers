@@ -1,0 +1,134 @@
+﻿/*beta*/
+
+body	{background-color: #7c969c;
+	 /*background-image: url(/pics/frost.jpg);*/
+	 min-width: 1280px;
+	 margin: 0px;
+	 padding: 0px;
+	 border: 0px;}
+
+h1	{margin: 0px;
+	 padding: 0px; 
+	 border: 0px;}
+
+a 	{font-color: #000000;}
+
+
+h2	{Background-color: #FFFFFF;
+	 text-align: center;
+	 text-decoration: underline;
+	 border: 1px ridge #000000;
+	 border-radius: 15px;
+	 margin-right: 15%;
+	 margin-left: 15%;
+	 clear: left;}
+
+h3	{Background-color: #FFFFFF;
+	 text-decoration: underline;
+	 text-align:center;
+	 margin-left:35%;
+	 margin-right:35%;}
+
+hr	{margin: 0px;}
+
+table	{background-color: #CE9D85;}
+
+tr	{background-color: #F6F6F6;}
+
+input	{margin-bottom: 20px;}
+
+textarea{width:98%;}
+
+.wrap	{margin-left:0px;
+	 margin-right:0px;
+	 width: 100%;}
+
+.logopic{vertical-align: middle;
+	 max-width: 292px;
+	 max-height: 64px;
+	 padding-left: 11%;
+	 padding-top: 5px;}
+
+.header	{margin: 0px;
+	 margin-bottom: 2%;
+	 color: #75D1FF;
+	 background-color: #3d4d51;
+	 font-size: 30px;
+		}
+.content {/*background-color: #37C4E8;*/
+	  background-color: #222;
+	  border-radius: 5px;
+	  overflow: hidden;
+	  padding-bottom: 2%;
+	  padding-top: 2%;
+	  margin-left:10%;
+	  margin-right:20%;
+	  font-size: 17px;}
+
+.twitter {width: 15%;
+	  padding-right: 14%;
+	  padding-left: .5%;
+	  float:right;
+	  clear:right;}
+
+.tab2	{margin-left: 11%;}
+
+.tab2 ul{list-style-type: none;
+	 margin: 0;
+	 padding: 0;
+	 overflow: hidden;}
+
+.tab2 li{float: left;}
+
+.tab2 a	{text-decoration: none;
+	 display: block inline;
+	 font-size: 14pt;
+	 text-align: center;
+	 padding: 10px 16px;}
+
+.tab2 a:link {color: #FFFFFF;
+	      font-family: "Arial";}
+.tab2 a:visited {color: #FFFFFF;}
+.tab2 a:hover {color: #FFFFFF;
+	       background-color: #ff7700;}
+
+.selected{border-top: 2px solid #ff7700;}
+
+.para	{margin-left:7%;
+	 margin-right:7%;
+	 background-color: #F6F6F6;
+	 font-size: 14pt;
+	 padding-left:2%;
+	 padding-right:2%;
+	 padding-top:2%;
+	 padding-bottom:5px;
+	 border-radius:10px;
+	 float: right;}
+
+.fr	{font-weight: bold;
+	 text-decoration: underline;
+	 text-align: center;}
+
+.floatleft {float: left;}
+
+.floatright{float: right;}
+
+#tab1	{float: left;
+	 clear:left;
+	 text-align: center;
+	 margin-top: 95px;
+	 width: 120px;
+	 padding-right: 35px;
+	 background-color: #AC5930;
+	 border-radius:15px;}
+
+#tab1 ul{list-style-type: none;}
+#tab1 a	{text-decoration: none;}
+#tab1 a:link {color: #000000;}
+#tab1 a:visited {color: #000000;}
+#tab1 a:hover {color: #FF6600;}
+
+#shop tr {text-align:center;}
+
+
+	 
