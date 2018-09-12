@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>South Main Hockey</title>
+<title>South Main Snipers</title>
 <meta charset="utf-8">
 <script>
   var sw = window.screen.width;
@@ -29,6 +29,9 @@
 <li class="mnav3">
 <a href="players.php">PLAYERS</a>
 </li>
+<li class="mnav5">
+  <a href="signup.php">SIGN UP</a>
+ </li>
 <li class="mnav4">
 <a href="contact.php">CONTACT</a>
 </li>
